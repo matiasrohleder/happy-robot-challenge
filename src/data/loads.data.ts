@@ -576,7 +576,7 @@ export const loads: Load[] = [
     },
     {
         load_id: "LD-1039",
-        origin: "Savannah, GA",
+        origin: "Tucson, AZ",
         destination: "Orlando, FL",
         pickup_datetime: "2026-05-14T09:00:00.000Z",
         delivery_datetime: "2026-05-15T13:00:00.000Z",
@@ -1536,7 +1536,7 @@ export const loads: Load[] = [
     },
     {
         load_id: "LD-1103",
-        origin: "Savannah, GA",
+        origin: "Philadelphia, PA",
         destination: "Jacksonville, FL",
         pickup_datetime: "2026-05-08T06:00:00.000Z",
         delivery_datetime: "2026-05-09T16:00:00.000Z",
