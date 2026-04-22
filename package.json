@@ -1,6 +1,6 @@
 {
     "name": "mcbot",
-    "version": "1.40.0",
+    "version": "1.41.0",
     "description": "Backend API for inbound carrier sales AI agent",
     "main": "dist/index.js",
     "scripts": {
